@@ -1,17 +1,18 @@
 .. raw:: html
 
-   <picture>
-     <source media="(prefers-color-scheme: dark)"
-             srcset="docs/source/_static/virmake-logo-dark.svg">
-     <source media="(prefers-color-scheme: light)"
-             srcset="docs/source/_static/virmake-logo-light.svg">
-     <img alt="VirMake"
-          src="docs/source/_static/virmake-logo-light.svg"
-          width="160">
-   </picture>
+   <p align="center">
+     <picture>
+       <source
+         media="(prefers-color-scheme: dark)"
+         srcset="docs/source/_static/virmake-logo-dark.svg">
+       <img
+         align="center"
+         width="160"
+         src="docs/source/_static/virmake-logo-light.svg"
+         alt="VirMake">
+     </picture>
+   </p>
 
-Template for the Read the Docs tutorial
-=======================================
 
 This GitHub template includes fictional Python library
 with some basic Sphinx docs.
