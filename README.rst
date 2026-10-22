@@ -64,8 +64,9 @@ Quick start
 .. note::
 
    **Dependencies:**
-     - git
-     - conda
+
+   - git
+   - conda
 
 1. Clone the git repository
 
