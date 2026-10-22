@@ -35,7 +35,7 @@
      <a href="#about-virmake">About VirMake</a> •
      <a href="#documentation">Documentation</a> •
      <a href="#quick-start">Quick start</a> •
-     <a href="#licence">Licence</a> •
+     <a href="#license">License</a> •
      <a href="#citation">Citation</a> •
    </p>
 
